@@ -1,0 +1,16 @@
+{
+  "patient demographics (name, age, gender)": "Robert Hale, 64, Male",
+  "admission and discharge dates": "Admission: 12/05/2026; Discharge: 16/05/2026",
+  "principal diagnosis": "CONFLICT: Community-acquired pneumonia (right lower lobe) (p.1) vs Aspiration pneumonia (p.2)",
+  "secondary diagnoses": "Type 2 diabetes mellitus (suboptimal control during admission)",
+  "hospital course": "Admitted with right lower lobe pneumonia and treated with IV antibiotics. Brief concern regarding possible aspiration prompted a swallow assessment, which was normal. Clinically improved, switched to oral antibiotics and discharged in stable condition.",
+  "procedures": "None",
+  "admission medications": "Amlodipine 5 mg PO once daily, Metformin 500 mg PO twice daily, Atorvastatin 20 mg PO once at night",
+  "discharge medications": "Co-amoxiclav 625 mg PO three times daily for 5 days, Metformin 500 mg PO twice daily, Atorvastatin 20 mg PO once at night",
+  "allergies": "Penicillin (rash)",
+  "follow-up instructions": "- GP review in 1 week. - Chest clinic in 6 weeks with repeat chest X-ray to confirm resolution. - Diabetes nurse to review glucose control.",
+  "pending results": "Blood culture (taken 12/05/2026) \u2014 final result still awaited",
+  "discharge condition": "Stable. Afebrile, SpO2 96% on room air, mobilising independently.",
+  "medication reconciliation": "Based on the provided medication lists, here's the comparison:\n\n1. CONTINUED:\n   - Metformin 500 mg PO twice daily\n   - Atorvastatin 20 mg PO once at night\n\n2. STOPPED:\n   - Amlodipine 5 mg PO once daily -> FLAG: no documented reason\n\n3. ADDED:\n   - Co-amoxiclav 625 mg PO three times daily for 5 days -> FLAG: no documented reason\n\n4. CHANGED:\n   - None (no changes in medication type, dose, or frequency are mentioned)",
+  "drug interaction check": "INTERACTIONS FOUND:\n\n- Co-amoxiclav and Metformin: Increased risk of lactic acidosis due to potential displacement of metformin from its binding sites.\n- Atorvastatin and Co-amoxiclav: Increased risk of myopathy and rhabdomyolysis due to potential inhibition of atorvastatin metabolism by co-amoxiclav."
+}

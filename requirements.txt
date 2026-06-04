@@ -1,0 +1,9 @@
+# Runtime dependencies (matches the actual imports in src/).
+# Prefer `uv sync` (uses pyproject.toml + uv.lock). This file is for plain pip users.
+google-generativeai>=0.8.6   # Gemini client (PDF ingestion + agent/tool LLM calls)
+groq>=1.4.0                  # Groq client (Part 2 simulated reviewer + rule summariser)
+python-dotenv>=1.0.0        # loads GEMINI_API_KEY / GROQ_API_KEY from .env
+matplotlib>=3.8.0           # Part 2 improvement curve (src/learn.py)
+
+# Dev-only (NOT needed to run the agent): generates the synthetic test PDF.
+# reportlab>=4.0.0          # scripts/make_patient_1.py

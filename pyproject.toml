@@ -1,0 +1,13 @@
+[project]
+name = "task-medical"
+version = "0.1.0"
+description = "Agentic AI for discharge summaries (take-home task)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "google-generativeai>=0.8.6",  # Gemini: PDF ingestion + agent/tool LLM calls
+    "groq>=1.4.0",                 # Groq: Part 2 simulated reviewer + rule summariser
+    "python-dotenv>=1.0.0",        # loads API keys from .env
+    "matplotlib>=3.8.0",           # Part 2 improvement curve
+    "reportlab>=4.0.0",            # dev only: scripts/make_patient_1.py
+]

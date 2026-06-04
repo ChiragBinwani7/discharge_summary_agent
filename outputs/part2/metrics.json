@@ -1,0 +1,30 @@
+[
+  {
+    "mean_edit_distance": 0.1187,
+    "mean_reward": 0.8813,
+    "mean_fact_score": 1.0,
+    "iteration": 0,
+    "rules_learned": 0
+  },
+  {
+    "mean_edit_distance": 0.0892,
+    "mean_reward": 0.9108,
+    "mean_fact_score": 1.0,
+    "iteration": 1,
+    "rules_learned": 4
+  },
+  {
+    "mean_edit_distance": 0.0892,
+    "mean_reward": 0.9108,
+    "mean_fact_score": 1.0,
+    "iteration": 2,
+    "rules_learned": 4
+  },
+  {
+    "mean_edit_distance": 0.0992,
+    "mean_reward": 0.9008,
+    "mean_fact_score": 1.0,
+    "iteration": 3,
+    "rules_learned": 4
+  }
+]

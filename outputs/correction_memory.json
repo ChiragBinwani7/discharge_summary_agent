@@ -1,0 +1,18 @@
+{
+  "admission and discharge dates": {
+    "rule": "Write dates as YYYY-MM-DD",
+    "support": 1
+  },
+  "admission medications": {
+    "rule": "Put each medication on its own line as name | strength | frequency | duration",
+    "support": 4
+  },
+  "discharge medications": {
+    "rule": "Put each medication on its own line as name | strength | frequency | duration",
+    "support": 4
+  },
+  "follow-up instructions": {
+    "rule": "Compress to at most 5 numbered items",
+    "support": 4
+  }
+}

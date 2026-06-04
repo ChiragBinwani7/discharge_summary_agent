@@ -1,0 +1,113 @@
+=== PAGE 1 ===
+
+ST. MARY GENERAL HOSPITAL — INTERNAL MEDICINE
+
+ADMISSION NOTE
+
+Name: Robert Hale Age/Sex: 64 / Male MRN: 884213
+Date of Admission: 12/05/2026 Ward: 4B, Bed 12
+Attending: Dr. A. Mensah
+
+PRESENTING COMPLAINT
+Productive cough with yellow sputum for 4 days, fever, and breathlessness on exertion for 2 days. One episode of rigors last night.
+
+HISTORY OF PRESENT ILLNESS
+64-year-old male, ex-smoker (quit 5 years ago, 30 pack-years), presents with a 4-day history of productive cough, subjective fever, and progressive dyspnoea. No chest pain. No haemoptysis. No recent travel. No known sick contacts.
+
+PAST MEDICAL HISTORY
+- Hypertension (since 2014)
+- Type 2 diabetes mellitus (since 2018)
+- No prior hospital admissions.
+
+ALLERGIES
+Penicillin — causes rash (documented by patient).
+
+MEDICATIONS ON ADMISSION (pre-admission regimen)
+Drug: Amlodipine; Dose: 5 mg; Route: PO; Frequency: Once daily
+Drug: Metformin; Dose: 500 mg; Route: PO; Frequency: Twice daily
+Drug: Atorvastatin; Dose: 20 mg; Route: PO; Frequency: Once at night
+
+EXAMINATION
+Temp 38.7°C, HR 104/min, BP 138/86 mmHg, RR 24/min, SpO2 91% on room air. Chest: crackles at right base. Heart sounds normal. Abdomen soft.
+
+PROVISIONAL DIAGNOSIS
+Community-acquired pneumonia (right lower lobe). CURB-65 score 2.
+
+PLAN
+Admit. Start IV ceftriaxone (penicillin allergy noted — cephalosporin chosen after discussion). Send CXR, FBC, U&E, CRP, blood cultures. Continue home metformin and atorvastatin. Oxygen to keep SpO2 > 94%.
+
+Page 1 of 4
+
+=== PAGE 2 ===
+
+PROGRESS NOTE — Day 2 (13/05/2026)
+
+Reviewed on morning round. Patient reports cough is unchanged, fever settling. Overnight nursing notes mention one witnessed episode of coughing during drinking, with mild choking.
+
+ASSESSMENT
+CXR reviewed: right lower lobe consolidation. Given the witnessed episode of choking on fluids and the dependent-lobe distribution, the picture is most consistent with aspiration pneumonia rather than typical community-acquired pneumonia. Speech & language therapy referral made for swallow assessment.
+
+INVESTIGATIONS
+FBC: WCC 15.2 (high), Hb 13.4, Plt 280.
+CRP: 142 mg/L.
+U&E: Na 137, K 4.1, Urea 7.2, Creatinine 98 µmol/L.
+Blood cultures: sent 12/05/2026 — report awaited.
+Random glucose: 11.8 mmol/L.
+
+PLAN
+Continue IV ceftriaxone. Add metronidazole given aspiration concern. Chase blood cultures. Await SALT swallow assessment. Encourage oral intake as tolerated.
+
+Page 2 of 4
+
+=== PAGE 3 ===
+
+PROGRESS NOTE — Day 4 (15/05/2026)
+
+Patient clinically improved. Afebrile for 48 hours. SpO2 96% on room air. Crackles reduced. CRP down to 48 mg/L. Tolerating soft diet; SALT cleared for normal consistency with no aspiration on bedside assessment.
+
+INVESTIGATIONS
+Repeat CRP: 48 mg/L (improving).
+Blood cultures (taken 12/05/2026): still no growth reported — final report awaited at time of writing.
+Repeat glucose profile: fasting 8.2 mmol/L.
+
+PLAN
+Switch IV antibiotics to oral co-amoxiclav to complete course. Plan discharge tomorrow if remains stable. Diabetes team to advise on glucose control.
+
+Page 3 of 4
+
+=== PAGE 4 ===
+
+DISCHARGE SUMMARY SHEET
+
+Name: Robert Hale Age/Sex: 64 / Male MRN: 884213
+Date of Admission: 12/05/2026 Date of Discharge: 16/05/2026
+
+FINAL DIAGNOSIS
+Community-acquired pneumonia, right lower lobe. Type 2 diabetes mellitus (suboptimal control during admission).
+
+COURSE IN HOSPITAL
+Admitted with right lower lobe pneumonia and treated with IV antibiotics. Brief concern regarding possible aspiration prompted a swallow assessment, which was normal. Clinically improved, switched to oral antibiotics and discharged in stable condition.
+
+PROCEDURES
+None. (No invasive procedures performed.)
+
+DISCHARGE MEDICATIONS
+Drug: Co-amoxiclav; Dose: 625 mg; Route: PO; Frequency: Three times daily for 5 days
+Drug: Metformin; Dose: 500 mg; Route: PO; Frequency: Twice daily
+Drug: Atorvastatin; Dose: 20 mg; Route: PO; Frequency: Once at night
+
+ALLERGIES
+Penicillin (rash).
+
+FOLLOW-UP
+- GP review in 1 week.
+- Chest clinic in 6 weeks with repeat chest X-ray to confirm resolution.
+- Diabetes nurse to review glucose control.
+
+PENDING RESULTS AT DISCHARGE
+Blood culture (taken 12/05/2026) — final result still awaited. GP to follow up and adjust antibiotics if positive.
+
+CONDITION AT DISCHARGE
+Stable. Afebrile, SpO2 96% on room air, mobilising independently.
+
+Page 4 of 4
