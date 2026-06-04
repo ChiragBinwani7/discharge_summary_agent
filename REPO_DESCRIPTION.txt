@@ -1,1 +1,0 @@
-An agentic AI workflow that extracts data from medical PDFs, formats clinical discharge summaries locally using an LLM ReAct loop, checks for drug interactions, and securely flags conflicting/missing data without hallucinating.
